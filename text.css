@@ -28,3 +28,19 @@ h1{
     font-size: 0.8em;
     border-top: 1px solid black;
 }
+
+a:link {
+  color: red;
+}
+
+a:visited{
+  color: blue;
+}
+
+a:hover{
+  color: green;
+}
+
+a:active{
+  color: purple;
+}
