@@ -1,5 +1,4 @@
 p{
-  color: yellow;
   font-family:Helvetica,Arial,sans-serif;
   }
 
@@ -13,7 +12,7 @@ list-style-type: none;
 
   #container{
     width: 50%;
-    background-color:#fffff;
+    background-color: yellow;
     margin: auto;
   }
 
