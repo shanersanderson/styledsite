@@ -7,6 +7,10 @@ h1{
   font-family:Georgia, "Times New Roman", serif;
   }
 
+ul{
+list-style-type: none;
+  }
+
   #container{
     width: 50%;
     background-color:#fffff;
@@ -20,13 +24,6 @@ h1{
     font-style: italic;
     margin-top: 0;
     text-align: right;
-}
-
-#footer{
-    color: black;
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 0.8em;
-    border-top: 1px solid black;
 }
 
 a:link {
@@ -43,4 +40,8 @@ a:hover{
 
 a:active{
   color: purple;
+}
+
+img{
+  border:0;
 }
