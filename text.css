@@ -1,15 +1,25 @@
 p{
   font-family:Helvetica,Arial,sans-serif;
+  text-align: center;
   }
 
 h1{
   font-family:Georgia, "Times New Roman", serif;
+  text-align: center;
   }
 
 ul{
 list-style-type: none;
-
+text-align: center;
   }
+
+h1{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
 
 #nav li {
   float: left;
@@ -55,4 +65,10 @@ a:active{
 
 img{
   border-style: none;
+
+}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
 }
